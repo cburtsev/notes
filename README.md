@@ -19,7 +19,7 @@
 ----------------
 
   * [ASUS A6R на сайте asus.com](https://www.asus.com/supportonly/A6Rp/HelpDesk_Download/)
-    ** [E2333 / Nov 2005 Notebook PC Hardware User’s Manual](http://dlcdnet.asus.com/pub/ASUS/nb/A6Jc/E2333_A6UKVRJ.pdf)
+    * [E2333 / Nov 2005 Notebook PC Hardware User’s Manual (pdf)](http://dlcdnet.asus.com/pub/ASUS/nb/A6Jc/E2333_A6UKVRJ.pdf)
   * [ASUS A6R на сайте cnews.ru](http://zoom.cnews.ru/goods_card/character/43112/asus-a6r)
 
 
